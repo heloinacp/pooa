@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gerencia de Lanchonete</string>
+    <string name="Nome">Nome</string>
+    <string name="Tipolanche">Tipo</string>
+    <string name="Descricao">Descrição</string>
+    <string name="Valor">Valor</string>
+
+
+</resources>
